@@ -1087,3 +1087,203 @@
 2022-11-27 18:16:51,722 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-11-27 18:16:51,736 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-11-27 18:16:51,738 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 18:45:08,905 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 18:45:08,927 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 18:45:08,930 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 18:45:21,270 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 18:45:21,310 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 18:45:21,313 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 18:45:30,590 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 18:45:30,596 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 18:45:30,599 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 18:45:51,087 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 18:45:51,093 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 18:45:51,095 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 18:46:00,965 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 18:46:00,988 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 18:46:00,996 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 18:46:11,437 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 18:46:11,443 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 18:46:11,446 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 18:46:49,807 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 18:46:49,813 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 18:46:49,820 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 18:47:00,664 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 18:47:00,671 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 18:47:00,676 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 18:47:08,971 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 18:47:08,978 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 18:47:08,980 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 18:59:54,066 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.flipmart:FlipMart:0.0.1-SNAPSHOT @ C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\pom.xml.
+2022-11-27 18:59:56,015 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.7.5/spring-boot-starter-security-2.7.5.pom
+2022-11-27 18:59:56,684 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.7.5/spring-boot-starter-security-2.7.5.pom
+2022-11-27 18:59:56,936 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.7.4/spring-security-config-5.7.4.pom
+2022-11-27 18:59:57,296 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.7.4/spring-security-config-5.7.4.pom
+2022-11-27 18:59:57,524 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.7.4/spring-security-core-5.7.4.pom
+2022-11-27 18:59:57,806 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.7.4/spring-security-core-5.7.4.pom
+2022-11-27 18:59:58,062 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.7.4/spring-security-crypto-5.7.4.pom
+2022-11-27 18:59:58,413 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.7.4/spring-security-crypto-5.7.4.pom
+2022-11-27 18:59:58,677 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.7.4/spring-security-web-5.7.4.pom
+2022-11-27 18:59:59,036 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.7.4/spring-security-web-5.7.4.pom
+2022-11-27 18:59:59,495 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/5.7.4/spring-security-test-5.7.4.pom
+2022-11-27 18:59:59,854 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/5.7.4/spring-security-test-5.7.4.pom
+2022-11-27 19:00:00,250 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.7.5/spring-boot-starter-security-2.7.5.jar
+2022-11-27 19:00:00,521 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/5.7.4/spring-security-test-5.7.4.jar
+2022-11-27 19:00:00,829 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.7.4/spring-security-core-5.7.4.jar
+2022-11-27 19:00:00,829 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.7.4/spring-security-config-5.7.4.jar
+2022-11-27 19:00:00,829 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.7.4/spring-security-web-5.7.4.jar
+2022-11-27 19:00:01,394 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.7.5/spring-boot-starter-security-2.7.5.jar
+2022-11-27 19:00:01,832 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.7.4/spring-security-crypto-5.7.4.jar
+2022-11-27 19:00:01,908 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/5.7.4/spring-security-test-5.7.4.jar
+2022-11-27 19:00:02,618 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.7.4/spring-security-web-5.7.4.jar
+2022-11-27 19:00:02,619 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.7.4/spring-security-crypto-5.7.4.jar
+2022-11-27 19:00:02,619 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.7.4/spring-security-core-5.7.4.jar
+2022-11-27 19:00:02,889 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.7.4/spring-security-config-5.7.4.jar
+2022-11-27 19:00:03,386 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-27 19:00:03,386 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-27 19:00:03,389 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-27 19:00:03,389 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-27 19:00:03,392 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-27 19:00:03,392 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-27 19:00:03,393 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 19:00:05,631 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-27 19:00:05,631 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-27 19:00:05,632 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-27 19:00:05,662 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-27 19:00:05,665 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-27 19:00:05,666 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-27 19:00:05,666 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 19:00:06,665 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.7.5/spring-boot-starter-security-2.7.5-sources.jar
+2022-11-27 19:00:07,115 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.7.5/spring-boot-starter-security-2.7.5-sources.jar
+2022-11-27 19:00:07,131 [Worker-47: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:2.7.5
+2022-11-27 19:00:07,999 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.7.4/spring-security-config-5.7.4-sources.jar
+2022-11-27 19:00:09,060 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.7.4/spring-security-config-5.7.4-sources.jar
+2022-11-27 19:00:09,076 [Worker-47: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:5.7.4
+2022-11-27 19:00:09,987 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.7.4/spring-security-web-5.7.4-sources.jar
+2022-11-27 19:00:12,128 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.7.4/spring-security-web-5.7.4-sources.jar
+2022-11-27 19:00:12,155 [Worker-47: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:5.7.4
+2022-11-27 19:00:12,987 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/5.7.4/spring-security-test-5.7.4-sources.jar
+2022-11-27 19:00:13,415 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/5.7.4/spring-security-test-5.7.4-sources.jar
+2022-11-27 19:00:13,423 [Worker-47: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-test:5.7.4
+2022-11-27 19:00:14,448 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.7.4/spring-security-core-5.7.4-sources.jar
+2022-11-27 19:00:15,380 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.7.4/spring-security-core-5.7.4-sources.jar
+2022-11-27 19:00:15,385 [Worker-47: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:5.7.4
+2022-11-27 19:00:16,289 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.7.4/spring-security-crypto-5.7.4-sources.jar
+2022-11-27 19:00:16,827 [Worker-47: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.7.4/spring-security-crypto-5.7.4-sources.jar
+2022-11-27 19:00:16,844 [Worker-47: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:5.7.4
+2022-11-27 19:00:17,658 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-27 19:00:17,658 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-27 19:00:17,658 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-27 19:00:17,658 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-27 19:00:17,658 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-27 19:00:17,658 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-27 19:00:17,658 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 19:01:35,202 [Worker-54: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.flipmart:FlipMart:0.0.1-SNAPSHOT @ C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\pom.xml.
+2022-11-27 19:01:36,123 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-27 19:01:36,124 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-27 19:01:36,128 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-27 19:01:36,129 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-27 19:01:36,141 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-27 19:01:36,141 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-27 19:01:36,141 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 19:02:41,095 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.flipmart:FlipMart:0.0.1-SNAPSHOT @ C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\pom.xml.
+2022-11-27 19:02:42,155 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 19:02:42,156 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 19:02:42,159 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 19:02:44,202 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 19:02:44,227 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 19:02:44,230 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 19:03:02,432 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 19:03:02,440 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 19:03:02,442 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 19:07:32,328 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 19:07:32,341 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 19:07:32,343 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 19:43:30,752 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 19:43:30,760 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 19:43:30,762 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 20:16:28,681 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 20:16:28,745 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 20:16:28,747 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 20:17:14,372 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 20:17:14,456 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 20:17:14,459 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 20:57:26,998 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 20:57:27,021 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 20:57:27,022 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 20:59:29,232 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 20:59:29,245 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 20:59:29,246 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 20:59:39,091 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 20:59:39,103 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 20:59:39,105 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 21:03:06,400 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 21:03:06,407 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 21:03:06,409 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 21:03:33,894 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 21:03:33,901 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 21:03:33,902 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 21:03:36,158 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 21:03:36,168 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 21:03:36,170 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 21:03:38,652 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 21:03:38,667 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 21:03:38,671 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 21:07:31,556 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 21:07:31,564 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 21:07:31,571 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 21:08:49,286 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 21:08:49,293 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 21:08:49,295 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 21:08:54,570 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 21:08:54,577 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 21:08:54,579 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 21:11:27,299 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 21:11:27,305 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 21:11:27,307 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 21:11:30,680 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 21:11:30,686 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 21:11:30,688 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 21:37:08,891 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 21:37:08,898 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 21:37:08,900 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:08:20,474 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:08:20,497 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:08:20,498 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:11:23,906 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:11:23,928 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:11:23,929 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:18:44,478 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:18:44,487 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:18:44,489 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:21:19,932 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:21:19,938 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:21:19,939 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:22:45,892 [Worker-126: Launching FlipMart - FlipMartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:22:45,904 [Worker-126: Launching FlipMart - FlipMartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:22:45,906 [Worker-126: Launching FlipMart - FlipMartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:36:01,781 [Worker-132: Launching FlipMart - FlipMartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:36:01,791 [Worker-132: Launching FlipMart - FlipMartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:36:01,792 [Worker-132: Launching FlipMart - FlipMartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:37:24,558 [Worker-134: Launching FlipMart - FlipMartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:37:24,570 [Worker-134: Launching FlipMart - FlipMartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:37:24,571 [Worker-134: Launching FlipMart - FlipMartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:45:06,687 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:45:06,695 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:45:06,697 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:46:53,906 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:46:53,912 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:46:53,914 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:48:23,165 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:48:23,172 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:48:23,173 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:53:13,744 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:53:13,751 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:53:13,753 [Worker-306: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:57:14,929 [Worker-874: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.flipmart:FlipMart:0.0.1-SNAPSHOT @ C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\pom.xml.
+2022-11-27 22:57:16,439 [Worker-874: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:57:16,439 [Worker-874: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:57:16,442 [Worker-874: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
+2022-11-27 22:57:26,780 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-11-27 22:57:26,798 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-11-27 22:57:26,800 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ujjwa\Documents\JAVA\FlipMart\FlipMart\src\test\resources
