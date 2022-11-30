@@ -1,0 +1,5 @@
+package com.flipmart.serviceDAO;
+
+public interface CategoryService {
+
+}

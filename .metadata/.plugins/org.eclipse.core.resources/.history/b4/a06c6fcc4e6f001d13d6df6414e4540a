@@ -1,0 +1,47 @@
+package com.flipmart.logic;
+
+import java.util.List;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import com.flipmart.exception.ProductException;
+import com.flipmart.module.Product;
+import com.flipmart.repository.ProductRepo;
+import com.flipmart.serviceDAO.ProductService;
+
+@Service
+public class ProductLogic implements ProductService{
+
+	@Autowired
+	private ProductRepo pRepo;
+	
+	@Override
+	public List<Product> getAllProducts() throws ProductException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product getProductById(Integer pdtId) throws ProductException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product addProduct(Product product) throws ProductException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product deleteProduct(Integer pdtId) throws ProductException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product updateProduct(Product product) throws ProductException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

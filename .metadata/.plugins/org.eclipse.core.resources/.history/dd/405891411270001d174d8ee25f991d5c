@@ -1,0 +1,17 @@
+package com.flipmart.serviceDAO;
+
+import java.util.List;
+
+import com.flipmart.exception.CartException;
+import com.flipmart.exception.CustomerException;
+import com.flipmart.module.Cart;
+
+public interface CartService {
+	
+
+	public List<Cart> getCartByCustomer(Integer custId) throws CartException, CustomerException;
+	
+	public Cart addToCart(Cart cart) throws CartException;
+	
+	public Cart deleteCart(Integer cartId) throws CartException;
+}

@@ -2,13 +2,15 @@ package com.flipmart.module;
 
 import java.util.Set;
 
-import jakarta.persistence.CascadeType;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.OneToMany;
-import jakarta.validation.constraints.NotBlank;
+import javax.persistence.CascadeType;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.OneToMany;
+import javax.validation.constraints.NotBlank;
+
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -25,6 +27,7 @@ public class Category {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int categoryId;
 	
+	@Column(unique = true)
 	private @NotBlank String categoryName;
 	private @NotBlank String description;
 	private @NotBlank String image;

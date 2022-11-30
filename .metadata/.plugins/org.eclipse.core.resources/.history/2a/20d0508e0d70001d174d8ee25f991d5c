@@ -1,0 +1,11 @@
+package com.flipmart.serviceDAO;
+
+import com.flipmart.exception.CategoryException;
+import com.flipmart.module.Category;
+
+public interface CategoryService {
+
+	public Category addCategory(Category cat) throws CategoryException;
+	
+	public Category deleteCategory(Integer catId) throws CategoryException;
+}

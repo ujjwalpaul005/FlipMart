@@ -1,0 +1,22 @@
+package com.flipmart.serviceDAO;
+
+import java.util.List;
+
+import javax.persistence.criteria.Order;
+
+import com.flipmart.exception.CustomerException;
+import com.flipmart.exception.OrderException;
+
+public interface OrderService {
+
+	
+	public List<Order> getAllOrders() throws OrderException;
+	
+	public Order getOrderById(Integer orderId) throws OrderException;
+	
+	public List<Order> getAllOrderByCustimer(Integer custId) throws CustomerException, OrderException;
+	
+	public Order changeOrderStatus(Integer orderId, String status) throws OrderException;
+	
+	
+}

@@ -1,0 +1,6 @@
+package com.flipmart.serviceDAO;
+
+public interface CategoryService {
+
+	public Category addCategory(Category cat);
+}

@@ -1,0 +1,11 @@
+package com.flipmart.ServiceDAO;
+
+import java.util.List;
+
+import com.flipmart.exception.ProductException;
+import com.flipmart.module.Product;
+
+public interface ProductService {
+
+	public List<Product> getAllProducts() throws ProductException;
+}

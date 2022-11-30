@@ -1,0 +1,5 @@
+package com.flipmart.DTO.cart;
+
+public class CartItem {
+
+}

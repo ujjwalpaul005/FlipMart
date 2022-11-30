@@ -1,0 +1,5 @@
+package com.flipmart.exception;
+
+public class GlobalExceptionHandler {
+
+}

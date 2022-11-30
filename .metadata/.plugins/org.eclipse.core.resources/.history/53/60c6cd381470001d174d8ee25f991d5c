@@ -1,0 +1,5 @@
+package com.flipmart.DTO.product;
+
+public class ProductDTO {
+
+}

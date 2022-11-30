@@ -1,13 +1,16 @@
 package com.flipmart.module;
 
 import java.util.List;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.OneToMany;
-import jakarta.validation.constraints.NotNull;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
+import javax.validation.constraints.NotNull;
+
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -33,6 +36,7 @@ public class Product {
 	private Category category;
 	
 	@OneToMany(mappedBy = "product")
+	@JsonIgnore
 	private List<Cart> cart;
 
 	public Product(String name, String image, String description, double price, Category category) {

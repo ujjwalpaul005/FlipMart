@@ -1,0 +1,5 @@
+package com.flipmart.ServiceDAO;
+
+public interface ProductService {
+
+}

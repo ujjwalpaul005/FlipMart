@@ -1,0 +1,5 @@
+package com.flipmart.repository;
+
+public interface OrderRepo {
+
+}
