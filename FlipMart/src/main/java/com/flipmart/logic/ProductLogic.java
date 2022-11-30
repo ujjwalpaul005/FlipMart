@@ -3,6 +3,8 @@ package com.flipmart.logic;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.flipmart.DTO.product.ProductDTO;
 import com.flipmart.exception.ProductException;
 import com.flipmart.module.Product;
 import com.flipmart.repository.ProductRepo;
@@ -13,14 +15,11 @@ public class ProductLogic implements ProductService{
 
 	@Autowired
 	private ProductRepo pRepo;
-	
+
 	@Override
-	public List<Product> getAllProducts() throws ProductException {
-		List<Product> allPdt = pRepo.findAll();
-		if(allPdt.size() == 0) {
-			throw new ProductException("No product Found in The Store");
-		}
-		return allPdt;
+	public List<ProductDTO> getAllProducts() throws ProductException {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
 	@Override
@@ -30,13 +29,9 @@ public class ProductLogic implements ProductService{
 	}
 
 	@Override
-	public Product addProduct(Product product) throws ProductException {
-		Product pdt = null;
-		pdt = pRepo.save(product);
-		if(pdt == null) {
-			throw new ProductException("Product can't be added.");
-		}
-		return pdt;
+	public Product addProduct(ProductDTO productDto) throws ProductException {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
 	@Override
@@ -46,9 +41,22 @@ public class ProductLogic implements ProductService{
 	}
 
 	@Override
-	public Product updateProduct(Product product) throws ProductException {
+	public Product updateProduct(Integer pdtId, ProductDTO productDto) throws ProductException {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
+	@Override
+	public ProductDTO getProductDTOfromProduct(Product pdt) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product getProductfromProductDTO(ProductDTO pdtDto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	
 }

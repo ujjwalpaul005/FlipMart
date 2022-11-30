@@ -1,18 +1,19 @@
 package com.flipmart.serviceDAO;
 
-import java.util.List;
-
 import com.flipmart.DTO.cart.AddToCartDTO;
+import com.flipmart.DTO.cart.CartDTO;
+import com.flipmart.DTO.cart.CartItemDTO;
 import com.flipmart.exception.CartException;
 import com.flipmart.exception.CustomerException;
 import com.flipmart.module.Cart;
 
 public interface CartService {
-	
 
-	public List<Cart> getCartByCustomer(Integer custId) throws CartException, CustomerException;
+	public CartDTO getCartByCustomer(Integer custId) throws CartException, CustomerException;
 	
-	public Cart addToCart(AddToCartDTO cart) throws CartException;
+	public Cart addToCart(AddToCartDTO addToCartDTO, Integer custId) throws CartException, CustomerException;
 	
-	public Cart deleteCart(Integer cartId) throws CartException;
+	public Cart deleteCart(Integer cartId, Integer CustId) throws CartException;
+	
+	public CartItemDTO getCartDtoFromCart(Cart cart);
 }

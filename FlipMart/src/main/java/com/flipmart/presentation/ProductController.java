@@ -21,13 +21,13 @@ public class ProductController {
 	
 	@GetMapping("/all")
 	public ResponseEntity<List<Product>> getAllProductsHandler() throws ProductException{
-		List<Product> allPdt = pLogic.getAllProducts();
-		return new ResponseEntity<List<Product>>(allPdt, HttpStatus.OK);
+		
+		return null;
 	}
 	
 	@PostMapping("/prod")
 	public ResponseEntity<Product> addProductHandler(@RequestBody Product product) throws ProductException{
-		Product pdt = pLogic.addProduct(product);
-		return new ResponseEntity<Product>(pdt, HttpStatus.ACCEPTED);
+		
+		return null;
 	}
 }
